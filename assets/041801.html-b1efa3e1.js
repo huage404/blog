@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as a,s as e,R as c}from"./framework-aa5c4115.js";const o={},_=e("h1",{id:"一切的起点",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一切的起点","aria-hidden":"true"},"#"),c(" 一切的起点")],-1),n=e("p",null,"记录一下自己的生活。",-1),r=[_,n];function d(i,l){return s(),a("div",null,r)}const f=t(o,[["render",d],["__file","041801.html.vue"]]);export{f as default};
